@@ -7,5 +7,6 @@ from director import Director
 def main():
     director = Director()
     director.direct()
+    # use this now
 
 main()
